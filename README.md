@@ -47,4 +47,5 @@ Once the data and models have been prepared, experiments simulating enrollment c
 
 To generate simulation data from scratch, first generate data by running `simulations/enrollment_simulations.ipynb`, replacing the pretrained models path with newly trained models if desired, and then plot the data by modifying `simulations/simulation_plots.ipynb` to point to the location of the new data, and run as usual. 
 
-
+## License
+This code is released under the MIT License. See the LICENSE file for details.
