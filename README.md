@@ -1,6 +1,6 @@
 # school-comp-exps
 
-This repository contains code for the synthetic and semi-synthetic experiments associated with the paper *The Effects of Polyculture on Admissions Decisions*.
+This repository contains code for the synthetic and semi-synthetic experiments associated with the paper *A Polyculture Lens on Admissions: A Market Model of Merit, Diversity and Legacy*.
 
 The code is separated into two types of experiments: fully synthetic (found in the `synthetic_experiments` folder) and semi-synthetic experiments based on data from the Educational Longitudinal Study of 2002 (found in the `school_data_exps` folder). We provide instructions on viewing and running each type below. 
 
